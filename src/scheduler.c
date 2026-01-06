@@ -44,7 +44,7 @@
 #include "cycle.h"
 #include "engine.h"
 #include "error.h"
-#include "intrinsics.h"
+#include "swintrinsics.h"
 #include "kernel_hydro.h"
 #include "memuse.h"
 #include "mpiuse.h"
