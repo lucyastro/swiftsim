@@ -24,7 +24,7 @@
 
 /* Local headers. */
 #include "inline.h"
-#include "intrinsics.h"
+#include "swintrinsics.h"
 
 #include <math.h>
 #include <stdint.h>
